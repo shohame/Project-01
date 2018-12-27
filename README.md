@@ -3,7 +3,7 @@
   #  שיעור ראשון
 
   
-![Alt text](relative/path/to/img.jpg?raw=true "Title")  
+![Alt text](/Arduino1/L1.png?raw=true "Title")  
   
 <p align="right" dir="rtl">  
 נא לערוך את המעגל והקוד...
